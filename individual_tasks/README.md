@@ -1,1 +1,1 @@
-#individual tasks from FAMCS BSU algorithm course.
+# individual tasks from FAMCS BSU algorithm course.
