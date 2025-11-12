@@ -1,1 +1,1 @@
-# Algorithms for solving individual tasks from FAMCS BSU programming course.
+# Algorithms for solving individual tasks |FAMCS BSU programming course.
